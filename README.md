@@ -7,7 +7,7 @@
 🎓 Bacharel em Sistemas de Informação
 📍 Mato Grosso - MT | 💼 FAZENDACHEIA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryam-soares)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ryam-s-da-silva-594220252)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryamsoares-s)
 
 </div>
@@ -40,17 +40,15 @@ Desenvolvedor Full-Stack com foco em TypeScript/Node.js, atuando em projetos pro
 
 <div align="center">
 
-![Ryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryamsoares-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryamsoares-s&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryamsoares-s&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 ## 🏢 Contribuições Profissionais
+
+<div align="center">
 
 | Projeto | Organização | Stack | 🔗 |
 |---------|-------------|-------|-----|
@@ -62,15 +60,21 @@ Desenvolvedor Full-Stack com foco em TypeScript/Node.js, atuando em projetos pro
 | **frontend/backend** | SENTINELA-IA-IFMT | TypeScript | |
 | **IF-Alerta-Queimadas** | IF-Alerta-Queimadas | TypeScript | |
 
+</div>
+
 ---
 
 ## 🌟 Projetos Pessoais
+
+<div align="center">
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | [clone-tabnews.com.br](https://github.com/ryamsoares-s/clone-tabnews.com.br) | Aprendizado fullstack do zero ao deploy | Next.js, PostgreSQL, Docker |
 | [express-auth-boilerplate](https://github.com/ryamsoares-s/express-auth-boilerplate) | API REST de autenticação com JWT | Express, Prisma, JWT |
 | [catalogo_moveis](https://github.com/ryamsoares-s/catalogo_moveis) | Catálogo de móveis | CSS, HTML |
+
+</div>
 
 ---
 
