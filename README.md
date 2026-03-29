@@ -57,8 +57,8 @@ Desenvolvedor Full-Stack com foco em TypeScript/Node.js, atuando em projetos pro
 | **monorepo** | Terra-Commodities | TypeScript, tRPC | [dashboard.terracommodities.agr.br](https://dashboard.terracommodities.agr.br/) |
 | **app-portal-associado** | vzacarkim | TypeScript | [portaldoassociado.enersim.com.br](https://portaldoassociado.enersim.com.br/) |
 | **V3D** | leticiafers | TypeScript | [v3d-production.up.railway.app](https://v3d-production.up.railway.app/) |
-| **frontend/backend** | SENTINELA-IA-IFMT | TypeScript | |
-| **IF-Alerta-Queimadas** | IF-Alerta-Queimadas | TypeScript | |
+| **frontend/backend** | SENTINELA-IA-IFMT | TypeScript | 🔒 Privado |
+| **IF-Alerta-Queimadas** | IF-Alerta-Queimadas | TypeScript | 🔒 Privado |
 
 </div>
 
