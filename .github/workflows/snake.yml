@@ -1,0 +1,33 @@
+name: matriz-de-plantio
+
+# Gera a animação da "cobra" sobre o grid de contribuições, nas cores do CERRADO//OS,
+# e publica o SVG no branch `output` (lido pelo README).
+on:
+  schedule:
+    - cron: "0 9 * * *" # todo dia, 06:00 em Cuiabá/Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Gerar SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/matriz.svg?color_snake=#E8A33D&color_dots=#1A2420,#3B2418,#7A3A22,#C2502E,#E8A33D
+
+      - name: Publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
