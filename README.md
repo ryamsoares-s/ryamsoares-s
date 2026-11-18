@@ -20,13 +20,13 @@
 
 Sou desenvolvedor full-stack: construo sistemas web completos, da tela que a pessoa usa até o servidor e o
 banco de dados que guardam as informações. Trabalho na [**TerraWatt Tecnologia**](https://terrawatt.com.br/),
-que cria o ecossistema de software para a Geração Distribuída Compartilhada de energia, já atuei em projetos
-do **agronegócio** e sou professor no **IFMT — Campus Pontes e Lacerda**, onde ensino programação.
+que cria o ecossistema de software para a Geração Distribuída Compartilhada de energia, e na
+[**Terra Commodities**](https://terracommodities.agr.br/), a mesa de negócios do produtor rural no agronegócio. Também sou professor no **IFMT — Campus Pontes e Lacerda**, onde ensino programação.
 
 <table>
 <tr><td><b>Formação</b></td><td>Bacharel em Sistemas de Informação</td></tr>
-<tr><td><b>Empresa</b></td><td><a href="https://terrawatt.com.br/">TerraWatt Tecnologia</a>, software para Geração Distribuída Compartilhada</td></tr>
-<tr><td><b>Atuação</b></td><td>Desenvolvedor Full-Stack na TerraWatt e professor no IFMT</td></tr>
+<tr><td><b>Empresas</b></td><td><a href="https://terrawatt.com.br/">TerraWatt Tecnologia</a> (energia) e <a href="https://terracommodities.agr.br/">Terra Commodities</a> (agronegócio)</td></tr>
+<tr><td><b>Atuação</b></td><td>Desenvolvedor Full-Stack na TerraWatt e na Terra Commodities, professor no IFMT</td></tr>
 <tr><td><b>Setores</b></td><td>Energia, agronegócio e educação</td></tr>
 <tr><td><b>Projeto atual</b></td><td>IFMT Horários, sistema de grade de horários escolares</td></tr>
 <tr><td><b>Estudando</b></td><td>Otimização de problemas de agenda e infraestrutura em nuvem</td></tr>
@@ -155,7 +155,7 @@ limite de turnos por dia, professor ou turma em dois lugares ao mesmo tempo. O s
 | **SIME** | Energia · [TerraWatt](https://terrawatt.com.br/) | plataforma de gestão de Geração Distribuída: adesão de clientes, distribuição da energia, faturamento e cobrança | [abrir ↗](https://sime.enersim.com.br/) |
 | **Portal do Associado** | Energia · [TerraWatt](https://terrawatt.com.br/) | portal web e app em que o cliente acompanha a economia na conta de luz, baixa faturas e usa o programa de benefícios | [abrir ↗](https://portaldoassociado.enersim.com.br/) |
 | **Energy Reader** | Energia · [TerraWatt](https://terrawatt.com.br/) | lê automaticamente as faturas da distribuidora de energia e envia os dados ao SIME, sem digitação | uso interno |
-| **Terra Commodities** | Agronegócio | painel de gestão da empresa | [abrir ↗](https://dashboard.terracommodities.agr.br/) |
+| **Terra Commodities** | Agronegócio · [Terra Commodities](https://terracommodities.agr.br/) | painel de gestão da mesa de negócios do produtor rural (boi gordo, grãos e insumos) | [abrir ↗](https://dashboard.terracommodities.agr.br/) |
 | **V3D** | Colaboração | aplicação web desenvolvida em equipe | [abrir ↗](https://v3d-production.up.railway.app/) |
 | **Sentinela IA** | Pesquisa (IFMT) | vigilância geoespacial com inteligência artificial contra o garimpo ilegal | privado |
 | **IF Alerta Queimadas** | Pesquisa (IFMT) | sistema de alerta de queimadas | privado |
