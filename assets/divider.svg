@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="divisor">
-  <line x1="0" y1="12" x2="540" y2="12" stroke="#C2502E" stroke-width="1.5" stroke-dasharray="2 10" stroke-linecap="round"/>
-  <line x1="660" y1="12" x2="1200" y2="12" stroke="#C2502E" stroke-width="1.5" stroke-dasharray="2 10" stroke-linecap="round"/>
-  <line x1="560" y1="12" x2="640" y2="12" stroke="#E8A33D" stroke-width="1.5"/>
-  <circle cx="600" cy="12" r="6" fill="#E8A33D"/>
-  <circle cx="600" cy="12" r="10" fill="none" stroke="#E8A33D" stroke-opacity=".35"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 16" width="1200" height="16" role="img" aria-label="divisor">
+  <line x1="0" y1="8" x2="1200" y2="8" stroke="#2A3A30" stroke-width="1.5"/>
+  <rect x="590" y="1" width="20" height="14" rx="2" fill="#0E1411" stroke="#2A3A30" stroke-width="1.5"/>
+  <rect x="596" y="4" width="8" height="8" fill="#E8A33D"/>
 </svg>
