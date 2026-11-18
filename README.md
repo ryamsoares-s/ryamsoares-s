@@ -42,8 +42,8 @@ do **agronegócio** e sou professor no **IFMT — Campus Pontes e Lacerda**, ond
 | | Serviço | Exemplo |
 |:-:|---|---|
 | 🖥️ | **Sistemas web sob medida**: telas, servidor e banco de dados, do início ao deploy | [Imóvel IR](https://imovel-ir-eosin.vercel.app/), controle de financiamento de imóvel para o Imposto de Renda |
-| ⚙️ | **Automação de processos**: troco planilhas e tarefas repetitivas por sistemas | IFMT Horários, que substitui a planilha de horários do campus |
-| 📊 | **Painéis e portais para empresas**: acompanhamento de dados e atendimento a clientes | portais do setor de energia e painel da Terra Commodities |
+| ⚙️ | **Automação de processos**: troco planilhas e tarefas repetitivas por sistemas | IFMT Horários, que substitui a planilha de horários do campus, e o Energy Reader, que lê faturas de energia sem digitação |
+| 📊 | **Painéis e portais para empresas**: acompanhamento de dados e atendimento a clientes | SIME e Portal do Associado, da TerraWatt, e o painel da Terra Commodities |
 | 🎓 | **Ensino de programação**: aulas, exercícios e projetos com as turmas | disciplina de Programação Web no IFMT |
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
@@ -152,8 +152,9 @@ limite de turnos por dia, professor ou turma em dois lugares ao mesmo tempo. O s
 | Projeto | Setor | O que é | Acesso |
 |---|---|---|---|
 | **Imóvel IR** | Finanças pessoais | controle de pagamentos de imóvel financiado para a declaração do IRPF | [abrir ↗](https://imovel-ir-eosin.vercel.app/) |
-| **SIME** | Energia | plataforma web do setor de energia | [abrir ↗](https://sime.enersim.com.br/) |
-| **Portal do Associado** | Energia | portal para os associados | [abrir ↗](https://portaldoassociado.enersim.com.br/) |
+| **SIME** | Energia · [TerraWatt](https://terrawatt.com.br/) | plataforma de gestão de Geração Distribuída: adesão de clientes, distribuição da energia, faturamento e cobrança | [abrir ↗](https://sime.enersim.com.br/) |
+| **Portal do Associado** | Energia · [TerraWatt](https://terrawatt.com.br/) | portal web e app em que o cliente acompanha a economia na conta de luz, baixa faturas e usa o programa de benefícios | [abrir ↗](https://portaldoassociado.enersim.com.br/) |
+| **Energy Reader** | Energia · [TerraWatt](https://terrawatt.com.br/) | lê automaticamente as faturas da distribuidora de energia e envia os dados ao SIME, sem digitação | uso interno |
 | **Terra Commodities** | Agronegócio | painel de gestão da empresa | [abrir ↗](https://dashboard.terracommodities.agr.br/) |
 | **V3D** | Colaboração | aplicação web desenvolvida em equipe | [abrir ↗](https://v3d-production.up.railway.app/) |
 | **Sentinela IA** | Pesquisa (IFMT) | vigilância geoespacial com inteligência artificial contra o garimpo ilegal | privado |
