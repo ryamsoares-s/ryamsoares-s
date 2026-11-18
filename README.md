@@ -19,12 +19,14 @@
 <sub>Quem sou e onde atuo.</sub>
 
 Sou desenvolvedor full-stack: construo sistemas web completos, da tela que a pessoa usa até o servidor e o
-banco de dados que guardam as informações. Trabalho com empresas dos setores de **energia** e
-**agronegócio** e sou professor no **IFMT — Campus Pontes e Lacerda**, onde ensino programação.
+banco de dados que guardam as informações. Trabalho na [**TerraWatt Tecnologia**](https://terrawatt.com.br/),
+que cria o ecossistema de software para a Geração Distribuída Compartilhada de energia, já atuei em projetos
+do **agronegócio** e sou professor no **IFMT — Campus Pontes e Lacerda**, onde ensino programação.
 
 <table>
 <tr><td><b>Formação</b></td><td>Bacharel em Sistemas de Informação</td></tr>
-<tr><td><b>Atuação</b></td><td>Desenvolvedor Full-Stack e professor no IFMT</td></tr>
+<tr><td><b>Empresa</b></td><td><a href="https://terrawatt.com.br/">TerraWatt Tecnologia</a>, software para Geração Distribuída Compartilhada</td></tr>
+<tr><td><b>Atuação</b></td><td>Desenvolvedor Full-Stack na TerraWatt e professor no IFMT</td></tr>
 <tr><td><b>Setores</b></td><td>Energia, agronegócio e educação</td></tr>
 <tr><td><b>Projeto atual</b></td><td>IFMT Horários, sistema de grade de horários escolares</td></tr>
 <tr><td><b>Estudando</b></td><td>Otimização de problemas de agenda e infraestrutura em nuvem</td></tr>

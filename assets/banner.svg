@@ -37,19 +37,20 @@
   <g class="m">
     <text x="842" y="86" font-size="15" fill="#E8A33D" font-weight="700">ryamsoares-s</text>
     <text x="842" y="102" font-size="14" fill="#2A3A30">───────────────────────────</text>
-    <text x="842" y="128"><tspan class="k">Função</tspan><tspan x="950" class="v">Desenvolvedor Full-Stack</tspan></text>
-    <text x="842" y="154"><tspan class="k">Linguagem</tspan><tspan x="950" class="v">TypeScript</tspan></text>
-    <text x="842" y="180"><tspan class="k">Formação</tspan><tspan x="950" class="v">Sistemas de Informação</tspan></text>
-    <text x="842" y="206"><tspan class="k">Ensino</tspan><tspan x="950" class="v">IFMT · Pontes e Lacerda</tspan></text>
-    <text x="842" y="232"><tspan class="k">Base</tspan><tspan x="950" class="v">Mato Grosso, Brasil</tspan></text>
-    <text x="842" y="258"><tspan class="k">Status</tspan><tspan x="950" fill="#9DBF88" font-size="14">● disponível</tspan></text>
+    <text x="842" y="124"><tspan class="k">Função</tspan><tspan x="950" class="v">Desenvolvedor Full-Stack</tspan></text>
+    <text x="842" y="148"><tspan class="k">Empresa</tspan><tspan x="950" class="v">TerraWatt Tecnologia</tspan></text>
+    <text x="842" y="172"><tspan class="k">Linguagem</tspan><tspan x="950" class="v">TypeScript</tspan></text>
+    <text x="842" y="196"><tspan class="k">Formação</tspan><tspan x="950" class="v">Sistemas de Informação</tspan></text>
+    <text x="842" y="220"><tspan class="k">Ensino</tspan><tspan x="950" class="v">IFMT · Pontes e Lacerda</tspan></text>
+    <text x="842" y="244"><tspan class="k">Base</tspan><tspan x="950" class="v">Mato Grosso, Brasil</tspan></text>
+    <text x="842" y="268"><tspan class="k">Status</tspan><tspan x="950" fill="#9DBF88" font-size="14">● disponível</tspan></text>
   </g>
   <g>
-    <rect x="842" y="280" width="26" height="14" fill="#0E1411" stroke="#2A3A30"/>
-    <rect x="872" y="280" width="26" height="14" fill="#2A3A30"/>
-    <rect x="902" y="280" width="26" height="14" fill="#C2502E"/>
-    <rect x="932" y="280" width="26" height="14" fill="#E8A33D"/>
-    <rect x="962" y="280" width="26" height="14" fill="#9DBF88"/>
-    <rect x="992" y="280" width="26" height="14" fill="#F2E8D5"/>
+    <rect x="842" y="286" width="26" height="14" fill="#0E1411" stroke="#2A3A30"/>
+    <rect x="872" y="286" width="26" height="14" fill="#2A3A30"/>
+    <rect x="902" y="286" width="26" height="14" fill="#C2502E"/>
+    <rect x="932" y="286" width="26" height="14" fill="#E8A33D"/>
+    <rect x="962" y="286" width="26" height="14" fill="#9DBF88"/>
+    <rect x="992" y="286" width="26" height="14" fill="#F2E8D5"/>
   </g>
 </svg>
